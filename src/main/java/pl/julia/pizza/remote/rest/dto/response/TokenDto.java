@@ -1,4 +1,4 @@
-package pl.jakub.pizza.remote.rest.dto.response;
+package pl.julia.pizza.remote.rest.dto.response;
 
 public class TokenDto {
 

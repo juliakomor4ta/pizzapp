@@ -1,4 +1,4 @@
-package pl.jakub.pizza.remote.rest.api;
+package pl.julia.pizza.remote.rest.api;
 
 
 import org.springframework.http.ResponseEntity;

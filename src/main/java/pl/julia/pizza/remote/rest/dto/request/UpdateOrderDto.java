@@ -1,4 +1,4 @@
-package pl.jakub.remote.rest.dto.request;
+package pl.julia.remote.rest.dto.request;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import pl.jakub.pizza.domain.model.OrderStatusType;

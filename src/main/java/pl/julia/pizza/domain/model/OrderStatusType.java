@@ -1,4 +1,4 @@
-package pl.jakub.pizza.domain.model;
+package pl.julia.pizza.domain.model;
 
 public enum OrderStatusType {
     NEW,

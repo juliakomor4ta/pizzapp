@@ -1,4 +1,4 @@
-package pl.jakub.pizza;
+package pl.julia.pizza;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

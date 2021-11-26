@@ -1,4 +1,4 @@
-package pl.jakub.remote.rest.dto.response;
+package pl.julia.remote.rest.dto.response;
 
 import pl.jakub.pizza.remote.rest.dto.response.OrderDto;
 

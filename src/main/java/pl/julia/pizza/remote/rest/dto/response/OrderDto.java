@@ -1,4 +1,4 @@
-package pl.jakub.pizza.remote.rest.dto.response;
+package pl.julia.pizza.remote.rest.dto.response;
 
 import pl.jakub.pizza.domain.model.OrderStatusType;
 import pl.jakub.pizza.remote.rest.dto.request.PersonOrderDto;

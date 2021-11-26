@@ -1,4 +1,4 @@
-package pl.jakub.pizza.remote.rest.dto.request;
+package pl.julia.pizza.remote.rest.dto.request;
 
 import pl.jakub.pizza.domain.model.SizeType;
 

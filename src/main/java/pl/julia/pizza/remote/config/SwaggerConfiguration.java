@@ -1,4 +1,4 @@
-package pl.jakub.pizza.remote.config;
+package pl.julia.pizza.remote.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
